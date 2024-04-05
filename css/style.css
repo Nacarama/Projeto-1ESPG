@@ -1,0 +1,8 @@
+#Calc{
+    background-color: black;
+    color: aqua;
+}
+#Calc:hover{
+    background-color: aqua;
+    color: black;
+}
