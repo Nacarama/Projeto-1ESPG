@@ -6,3 +6,9 @@
     background-color: aqua;
     color: black;
 }
+
+#resultado{
+    font-size: 150px;
+    color: rgb(27, 172, 216);
+    margin-left: 100px;
+}
